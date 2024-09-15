@@ -1,0 +1,61 @@
+
+body {
+    background-color: rgb(225, 241, 236);
+    font-family: 'Lucida Sans Regular', 'Lucida Grande', Verdana;
+    margin: 0px 20px;
+    font-size: 1.2vw;
+}
+
+body>header{color:rgb(0, 0, 0);
+display: flex ; align-items: center;
+justify-content: space-around;
+}
+
+#nav-ul{display: flex;}
+#nav-ul>li{padding: 10px; margin: 16px;
+}
+
+body>main>article{width: 90%; margin: auto;}
+body>article{width: 90%; margin: auto;}
+
+#logo {margin: 2px;
+padding: 0px;
+font-family: "Margarine";
+width: 16%;
+text-shadow: 5px 1px 0px rgb(135, 170, 143), -1px 1px 0px rgb(135, 170, 143), 1px -1px 0px rgb(135, 170, 143), -1px -1px 0px rgb(135, 170, 143);
+}
+
+form{text-align: center;}
+h2{text-align: center;}
+
+#navbutton {font-family: "Fredoka";}
+header>#navbutton{padding: 16px;}
+header>nav>ul{list-style: none;
+    text-decoration: none;}
+
+    footer>nav>ul{list-style: none;
+        text-decoration: none;}
+
+    footer>section>nav>ul>div{list-style: none;
+        text-decoration: none;}
+        .navbutton{color: black; text-decoration: none;}
+
+ul{margin: 0px;}
+body > header{background-color:rgb(140, 179, 149);}
+
+body > footer {background-color: rgb(140, 179, 149); padding: 0px align-items; center:
+    justify-content;space-evenly:
+}
+
+#footer-ul-div>li{ center: justify-content: space-around;
+}
+
+body> main> article> header {background-color: rgb(140, 179, 149);}
+
+article> header {background-color: rgb(140, 179, 149);}
+
+main>h4>a{display: inline-block;
+width: 20px;
+height: 50px;}
+
+img { border-radius: 10%;}
